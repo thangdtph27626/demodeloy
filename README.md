@@ -28,7 +28,7 @@ copy:  ngrok config add-authtoken 2HMQ............ và paste lên ngrox
 
 # chạy câu lệnh sau: ngrok http 8080
 
-![image](https://user-images.githubusercontent.com/109157942/224470587-0b58d605-4eae-442b-ac79-c0473ec9f0bc.png)
+![image](https://user-images.githubusercontent.com/109157942/224472723-b46309bd-99da-4e67-add9-2ebe84071d1d.png)
 
 bạn có thể kiểm tra các yêu cầu được giử lên tại http://localhost:4040 (Web Interface                 http://127.0.0.1:4040  )
 ![image](https://user-images.githubusercontent.com/109157942/224470677-1034a65e-e5df-4999-8abd-25e2805243b4.png)
@@ -118,6 +118,8 @@ public class Demo2Application {
 ## chạy project 
  truy cập https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io (Forwarding   https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io )
 
+![image](https://user-images.githubusercontent.com/109157942/224472717-c1bd41e5-8603-4323-96bb-8c77c00f32a7.png)
 
 
+![image](https://user-images.githubusercontent.com/109157942/224472684-7d02e83b-0811-415d-be94-f828654cd769.png)
 
