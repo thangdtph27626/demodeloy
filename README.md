@@ -26,11 +26,11 @@ Tiếp theo cài đặt auth trên máy tính
 copy:  ngrok config add-authtoken 2HMQ............ và paste lên ngrox 
 ![image](https://user-images.githubusercontent.com/109157942/224470527-62feab5c-8428-4452-bcde-2f19dc7d4611.png)
 
-# chạy câu lệnh sau: ngrok http 80
+# chạy câu lệnh sau: ngrok http 8080
 
 ![image](https://user-images.githubusercontent.com/109157942/224470587-0b58d605-4eae-442b-ac79-c0473ec9f0bc.png)
 
-bạn có thể kiểm tra các yêu cầu được giử lên tại http://localhost:4041/
+bạn có thể kiểm tra các yêu cầu được giử lên tại http://localhost:4040 (Web Interface                 http://127.0.0.1:4040  )
 ![image](https://user-images.githubusercontent.com/109157942/224470677-1034a65e-e5df-4999-8abd-25e2805243b4.png)
 
 ## Tạo dự án spring boot 
@@ -116,6 +116,7 @@ public class Demo2Application {
 ```
 
 ## chạy project 
+ truy cập https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io (Forwarding   https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io )
 
 
 
