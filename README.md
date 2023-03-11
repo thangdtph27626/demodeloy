@@ -1,4 +1,4 @@
-# Cách thiết lập và triển khai ứng dụng Java Spring Boot trên  ngrox
+# Cách thiết lập và triển khai ứng dụng Java Spring Boot trên  ngrok
 
 
 Việc xây dựng các dự án bằng Java có vẻ đáng sợ, đặc biệt là khi có vẻ khó hiểu để biết cách bắt đầu và thiết lập. May mắn thay, việc sử dụng các công cụ Spring Boot và ngrok sẽ đảm bảo với bạn rằng việc viết mã cho các ứng dụng Java có thể nhanh chóng và liền mạch.
@@ -9,12 +9,12 @@ Nhiều bài viết trên blog Twilio sử dụng ngrok , một công cụ tạo
 
 Trong bài viết này, bạn sẽ tìm hiểu cách thiết lập ứng dụng Java Spring Boot và tạo đường hầm từ một URL trên miền ngrok.io đến ứng dụng cục bộ đang chạy trên máy tính của bạn.
 
-## đăng ký tài khoản [ngrox](https://ngrok.com/)
+## đăng ký tài khoản [ngrok](https://ngrok.com/)
 sau khi đăng khý thành công màn hình sẽ hiển thị như sau 
 
 ![image](https://user-images.githubusercontent.com/109157942/224470353-03ac3d9e-9b6e-4379-9114-8f1b5e7db513.png)
 
-## download ngrox về máy và cài đặt 
+## download ngrok về máy và cài đặt 
 
 sau khi cài đặt thành công mở ngrox trên máy tính 
 ![image](https://user-images.githubusercontent.com/109157942/224470424-a486670f-d896-482a-b1ab-6baabde122b4.png)
@@ -116,10 +116,10 @@ public class Demo2Application {
 ```
 
 ## chạy project 
- truy cập https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io (Forwarding   https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io )
+ truy cập Forwarding trênn ngrok  https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io (Forwarding   https://009e-2001-ee0-4181-48ce-1cfb-2bf0-96d9-9737.ap.ngrok.io )
 
 ![image](https://user-images.githubusercontent.com/109157942/224472717-c1bd41e5-8603-4323-96bb-8c77c00f32a7.png)
 
-
+Kết quả:
 ![image](https://user-images.githubusercontent.com/109157942/224472684-7d02e83b-0811-415d-be94-f828654cd769.png)
 
